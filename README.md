@@ -1,5 +1,5 @@
 # Pneumonia Detection from Chest X-rays
-![logo of chest xray](logo.png)
+![logo of chest xray](NORMAL2-IM-1345-0001.jpeg)
 This project leverages deep learning to classify chest X-ray images and detect the presence of pneumonia.
 
 ## Table of Contents
